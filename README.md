@@ -1,5 +1,5 @@
 <h1 align="center" >Hi, Im VEXG</h1>
-<h3 align="center">Im a Editor & Front end web developer</h3>
+<h3>Im a Editor & Front end web developer</h3>
 
 -   🔭 I’m currently working on **My portofolio website**
 
