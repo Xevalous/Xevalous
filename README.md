@@ -43,3 +43,13 @@
 <a target="_blank" href="https://www.adobe.com/products/aftereffects.html">
     <img style="margin-bottom: 3px; margin-left: 7px" height="35" width="35" src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg">
 </a>
+
+<p>
+    &nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=VEXG&show_icons=true&locale=en&count_private=true&theme=github_dark"/>
+</p>
+
+<p>
+    &nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VEXG&show_icons=true&locale=en&count_private=true&layout=compact&theme=github_dark"/>
+</p>
