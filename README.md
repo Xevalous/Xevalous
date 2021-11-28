@@ -6,12 +6,14 @@
 -   🌱 I’m currently learning **[Python](https://www.python.org), [TypeScript](https://www.typescriptlang.org), [SolidJs](solidjs.com)**
 
 -   ✨ My favourite language is **[JavaScript](https://en.wikipedia.org/wiki/JavaScript)**
-
+<p>
 <h3 align="left">Connect with me :</h3>
 <a style="margin: 5px" target="_blank" href="https://www.instagram.com/h_3loo/">
     <img src="https://www.instagram.com/static/images/ico/favicon.ico/36b3ee2d91ed.ico">
 </a>
+</p>
 
+<p>
 <h3 align="left">Languages and Tools :</h3>
 <a target="_blank" href="https://en.wikipedia.org/wiki/HTML">
     <img width="35" height="40" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5">
@@ -43,6 +45,7 @@
 <a target="_blank" href="https://www.adobe.com/products/aftereffects.html">
     <img style="margin-bottom: 3px; margin-left: 7px" height="35" width="35" src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg">
 </a>
+</p>
 
 <p>
     &nbsp;
