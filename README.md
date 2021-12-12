@@ -3,7 +3,7 @@
 
 -   🔭 I’m currently working on **My portofolio website**
 
--   🌱 I’m currently learning **[Python](https://www.python.org), [TypeScript](https://www.typescriptlang.org), [SolidJs](solidjs.com)**
+-   🌱 I’m currently learning **[Python](https://www.python.org), [TypeScript](https://www.typescriptlang.org), [SolidJs](https://www.solidjs.com)**
 
 -   ✨ My favourite language is **[JavaScript](https://en.wikipedia.org/wiki/JavaScript)**
 <p>
