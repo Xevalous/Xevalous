@@ -1,7 +1,7 @@
 <h1 align="center" >Hi, Im VEXG</h1>
 <h3>Im a Editor & Front end web developer</h3>
 
--   🔭 I’m currently working on **My portofolio website**
+-   🔭 I’m currently working on **~~My portofolio website~~, cilokBot-v3**
 
 -   🌱 I’m currently learning **[Python](https://www.python.org), [TypeScript](https://www.typescriptlang.org), [SolidJs](https://www.solidjs.com)**
 
