@@ -3,9 +3,9 @@
 
 -   🔭 I’m currently working on **~~My portofolio website~~, [cilok-v3](https://github.com/VEXG/cilok-v3)**
 
--   🌱 I’m currently learning **[Python](https://www.python.org), [TypeScript](https://www.typescriptlang.org), [SolidJs](https://www.solidjs.com)**
+-   🌱 I’m currently learning **Python, TypeScript, SolidJs**
 
--   ✨ My favourite language is **[JavaScript](https://en.wikipedia.org/wiki/JavaScript)**
+-   ✨ My favourite language is **JavaScript**
 <p>
 <h3 align="left">Connect with me :</h3>
 <a style="margin: 5px" target="_blank" href="https://www.instagram.com/h_3loo/">
@@ -15,26 +15,11 @@
 
 <p>
 <h3 align="left">Languages and Tools :</h3>
-<a target="_blank" href="https://en.wikipedia.org/wiki/HTML">
-    <img width="35" height="40" class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5">
+<a target="_blank" href="https://code.visualstudio.com/">
+    <img width="40" height="35" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg">
 </a>
-<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img width="35" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-</a>
-<a target="_blank" href="https://en.wikipedia.org/wiki/JavaScript">
-    <img width="35" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-</a>
-<a target="_blank" href="https://www.typescriptlang.org">
-    <img width="35" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-</a>
-<a target="_blank" href="https://www.python.org">
-    <img height="32" width="40" src="https://docs.python.org/_static/py.svg" style="margin-bottom: 3px">
-</a>
-<a target="_blank" href="https://tailwindcss.com">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-</a>
-<a target="_blank" href="https://www.solidjs.com">
-    <img width="35" height="40" src="https://www.solidjs.com/assets/logo.123b04bc.svg">
+<a target="_blank" href="https://code.visualstudio.com/">
+    <img width="35" height="33" src="https://code.visualstudio.com/apple-touch-icon.png">
 </a>
 <a target="_blank" href="https://www.figma.com">
     <img width="32" height="39" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
