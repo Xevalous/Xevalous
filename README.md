@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning **Python, TypeScript, SolidJs**
 
 - ✨ My favourite language is **JavaScript**
-<br>
 <h3>
     <details>
         <summary align="left">Connect with me</summary><h3>
