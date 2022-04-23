@@ -7,13 +7,12 @@
 
 - ✨ My favourite language is **JavaScript**
 <br>
-<details>
-    <summary align="left">Connect with me</summary>
+<h3><details>
+    <summary align="left">Connect with me</summary><h3>
     <a target="_blank" href="https://www.instagram.com/h_3loo/">
         <img src="https://img.shields.io/badge/instagram-svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd336d" alt="Instagram">
     </a>
 </details>
-<br>
 <details>
     <summary align="left">Knowledges</summary>
         <img src="https://img.shields.io/badge/html-svg?&style=for-the-badge&logo=html5&logoColor=white&color=eb6329" alt="HTML">
@@ -23,6 +22,7 @@
         <img src="https://img.shields.io/badge/python-svg?&style=for-the-badge&logo=python&logoColor=white&color=3371a3" alt="Python">
         <img src="https://img.shields.io/badge/c++-svg?&style=for-the-badge&logo=cplusplus&logoColor=white&color=00599d" alt="C++">
 </details>
+</h3>
 <br>
 <p>
     &nbsp;
