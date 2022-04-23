@@ -1,37 +1,29 @@
 <h1 align="center" >Hi, Im VEXG</h1>
 <h3>Im a Editor & Front end web developer</h3>
 
--   🔭 I’m currently working on **~~My portofolio website~~, [cilok-v3](https://github.com/VEXG/cilok-v3)**
+- 🔭 I’m currently working on **~~My portofolio website~~, [cilok-v3](https://github.com/VEXG/cilok-v3)**
 
--   🌱 I’m currently learning **Python, TypeScript, SolidJs**
+- 🌱 I’m currently learning **Python, TypeScript, SolidJs**
 
--   ✨ My favourite language is **JavaScript**
-<p>
-<h3 align="left">Connect with me :</h3>
-<a style="margin: 5px" target="_blank" href="https://www.instagram.com/h_3loo/">
-    <img src="https://www.instagram.com/static/images/ico/favicon.ico/36b3ee2d91ed.ico">
-</a>
-</p>
-
-<p>
-<h3 align="left">Languages and Tools :</h3>
-<a target="_blank" href="https://code.visualstudio.com/">
-    <img width="40" height="35" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg">
-</a>
-<a target="_blank" href="https://code.visualstudio.com/">
-    <img width="35" height="33" src="https://code.visualstudio.com/apple-touch-icon.png">
-</a>
-<a target="_blank" href="https://www.figma.com">
-    <img width="32" height="39" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
-</a>
-<a target="_blank" href="https://www.adobe.com/products/photoshop.html">
-    <img style="margin-bottom: 2px" height="35" width="35" src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg">
-</a>
-<a target="_blank" href="https://www.adobe.com/products/aftereffects.html">
-    <img style="margin-bottom: 3px; margin-left: 7px" height="35" width="35" src="https://www.adobe.com/content/dam/cc/us/en/products/ccoverview/ae_cc_app_RGB.svg">
-</a>
-</p>
-
+- ✨ My favourite language is **JavaScript**
+<br>
+<details>
+    <summary align="left">Connect with me</summary>
+    <a target="_blank" href="https://www.instagram.com/h_3loo/">
+        <img src="https://img.shields.io/badge/instagram-svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd336d" alt="Instagram">
+    </a>
+</details>
+<br>
+<details>
+    <summary align="left">Knowledges</summary>
+        <img src="https://img.shields.io/badge/html-svg?&style=for-the-badge&logo=html5&logoColor=white&color=eb6329" alt="HTML">
+        <img src="https://img.shields.io/badge/css-svg?&style=for-the-badge&logo=css3&logoColor=white&color=006db5" alt="CSS">
+        <img src="https://img.shields.io/badge/javascript-svg?&style=for-the-badge&logo=javascript&logoColor=black&color=e9d54c" alt="Javascript">
+        <img src="https://img.shields.io/badge/typescript-svg?&style=for-the-badge&logo=typescript&logoColor=white&color=3178c6" alt="Typescript">
+        <img src="https://img.shields.io/badge/python-svg?&style=for-the-badge&logo=python&logoColor=white&color=3371a3" alt="Python">
+        <img src="https://img.shields.io/badge/c++-svg?&style=for-the-badge&logo=cplusplus&logoColor=white&color=00599d" alt="C++">
+</details>
+<br>
 <p>
     &nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=VEXG&show_icons=true&locale=en&count_private=true&theme=github_dark"/>
