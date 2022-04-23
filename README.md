@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **~~My portofolio website~~, [cilok-v3](https://github.com/VEXG/cilok-v3)**
 
-- 🌱 I’m currently learning **Python, TypeScript, SolidJs**
+- 🌱 I’m currently learning **Python, C++, SolidJs**
 
 - ✨ My favourite language is **JavaScript**
 <h3>
