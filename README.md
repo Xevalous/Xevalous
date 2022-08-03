@@ -1,5 +1,4 @@
 <h1 align="center" >Hi, Im Helmi</h1>
-<h3>Im a Editor & Front end web developer</h3>
 
 - 🔭 I’m currently working on **~~My portofolio website~~, [cilok-v3](https://github.com/VEXG/cilok-v3)**
 
