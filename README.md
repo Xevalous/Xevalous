@@ -1,6 +1,6 @@
 <h1 align="center" >Hi, Im Helmi</h1>
 
-- 🔭 I’m currently working on **[cilok](https://github.com/Xevalous/cilok-bot)**
+- 🔭 I’m currently working on **[Cilok](https://github.com/Xevalous/cilok-bot)**
 
 - 🌱 I’m currently learning **Python, C++, VB**
 
