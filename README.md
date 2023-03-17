@@ -1,6 +1,6 @@
 <h1 align="center" >Hi, Im Helmi</h1>
 
-- 🔭 I’m currently working on **~~My portofolio website~~, [cilok-v3](https://github.com/VEXG/cilok-v3)**
+- 🔭 I’m currently working on **[cilok](https://github.com/Xevalous/cilok-bot)**
 
 - 🌱 I’m currently learning **Python, C++, VB**
 
@@ -25,10 +25,10 @@
 <br>
 <p>
     &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=VEXG&show_icons=true&locale=en&count_private=true&theme=github_dark"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xevalous&show_icons=true&locale=en&count_private=true&theme=github_dark"/>
 </p>
 <br>
 <p>
     &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VEXG&show_icons=true&locale=en&count_private=true&layout=compact&theme=github_dark"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xevalous&show_icons=true&locale=en&count_private=true&layout=compact&theme=github_dark"/>
 </p>
