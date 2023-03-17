@@ -1,4 +1,4 @@
-<h1 align="center" >Hi, Im Helmi</h1>
+<h1 align="center" >Hi, i'am Helmi</h1>
 
 - 🔭 I’m currently working on **[Cilok](https://github.com/Xevalous/cilok-bot)**
 
