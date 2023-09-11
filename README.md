@@ -1,34 +1,61 @@
-<h1 align="center" >Hi, i'am Helmi</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-- 🔭 I’m currently working on **[Cilok](https://github.com/Xevalous/cilok-bot)**
+###
 
-- 🌱 I’m currently learning **Python, C++, VB**
+<p align="left">My name is Helmi Aryanto and I'm a <s>Back-end</s> Full-stack developer from Indonesia</p>
 
-- ✨ My favourite language is **JavaScript**
-<h3>
-    <details>
-        <summary align="left">Connect with me</summary><h3>
-        <a target="_blank" href="https://www.instagram.com/h_3loo/">
-            <img src="https://img.shields.io/badge/instagram-svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd336d" alt="Instagram">
-        </a>
-    </details>
-</h3>
-<h3>
-    <details>
-        <summary align="left">Knowledges</summary><br>
-            <img src="https://img.shields.io/badge/html-svg?&style=for-the-badge&logo=html5&logoColor=white&color=eb6329" alt="HTML">
-            <img src="https://img.shields.io/badge/css-svg?&style=for-the-badge&logo=css3&logoColor=white&color=006db5" alt="CSS">
-            <img src="https://img.shields.io/badge/javascript-svg?&style=for-the-badge&logo=javascript&logoColor=black&color=e9d54c" alt="Javascript">
-            <img src="https://img.shields.io/badge/typescript-svg?&style=for-the-badge&logo=typescript&logoColor=white&color=3178c6" alt="Typescript">
-            <img src="https://img.shields.io/badge/php-svg?&style=for-the-badge&logo=php&logoColor=white&color=3178c6" alt="PHP">
-    </details>
-</h3>
-<br>
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning PHP, Svelte<br>🎯 Goals: Vue, Laravel</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
+</div>
+
+###
+
+<h2 align="left">Social media</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/h_3loo/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">Stats</h2>
+
+###
+
 <p>
     &nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xevalous&show_icons=true&locale=en&count_private=true&theme=github_dark"/>
 </p>
-<br>
 <p>
     &nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xevalous&show_icons=true&locale=en&count_private=true&layout=compact&theme=github_dark"/>
