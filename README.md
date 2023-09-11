@@ -20,6 +20,7 @@
             <img src="https://img.shields.io/badge/css-svg?&style=for-the-badge&logo=css3&logoColor=white&color=006db5" alt="CSS">
             <img src="https://img.shields.io/badge/javascript-svg?&style=for-the-badge&logo=javascript&logoColor=black&color=e9d54c" alt="Javascript">
             <img src="https://img.shields.io/badge/typescript-svg?&style=for-the-badge&logo=typescript&logoColor=white&color=3178c6" alt="Typescript">
+            <img src="https://img.shields.io/badge/php-svg?&style=for-the-badge&logo=php&logoColor=white&color=3178c6" alt="PHP">
     </details>
 </h3>
 <br>
