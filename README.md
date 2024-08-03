@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning PHP, Svelte<br>🎯 Goals: Vue, Laravel</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Svelte<br>🎯 Goals: Vue</p>
 
 ###
 
