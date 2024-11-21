@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Helmi Aryanto and I'm a <s>Back-end</s> Full-stack developer from Indonesia</p>
+<p align="left">My name is Helmi and I'm a <s>Back-end</s> Full-stack developer from Indonesia</p>
 
 ###
 
